@@ -1,0 +1,7 @@
+{
+  "name": "criosProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
