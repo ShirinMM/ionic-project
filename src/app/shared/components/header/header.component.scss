@@ -1,0 +1,22 @@
+ion-header {
+    ion-toolbar {
+
+        ion-title {
+            img {
+                height: 2vh;
+                width: 2vh;
+            }
+        }
+    }
+}
+
+.header-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .header-subtitle {
+    font-size: 14px;
+    color: #f1e7e7cc;
+    margin-top: 5px;
+  }
